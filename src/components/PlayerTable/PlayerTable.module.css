@@ -1,0 +1,67 @@
+/* PlayerTable.module.css */
+
+.table {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.theadRow {
+  background-color: #e0f2f7; /* Light blue background */
+  color: #1e40af; /* Dark blue text */
+}
+
+.th {
+  border: 1px solid #e0e0e0;
+  padding: 0.75rem 0.5rem;
+  text-align: left;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+.tbodyRow {
+  border: 1px solid #e0e0e0;
+}
+
+.tbodyRow:hover {
+  background-color: #f0f0f0; /* Light gray on hover */
+}
+
+.td {
+  border: 1px solid #e0e0e0;
+  padding: 0.5rem;
+  font-size: 0.875rem;
+}
+
+.actionsCell {
+  border: 1px solid #e0e0e0;
+  padding: 0.5rem;
+}
+
+.actionsContainer {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+
+.editButton {
+  color: #d97706; /* Yellow-orange */
+  cursor: pointer;
+}
+
+.editButton:hover {
+  color: #b45309; /* Darker yellow-orange */
+}
+
+.deleteButton {
+  color: #dc2626; /* Red */
+  cursor: pointer;
+}
+
+.deleteButton:hover {
+  color: #b91c1c; /* Darker red */
+}

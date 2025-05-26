@@ -1,0 +1,21 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-bottom: 10px;
+}
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.input {
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+.btn {
+  max-width: 200px;
+  margin-bottom: 10px;
+}
