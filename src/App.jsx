@@ -117,6 +117,10 @@ export default function App() {
 
   const handleDownloadPDF = () => {
     const input = document.getElementById("results-section");
+
+    const buttons = input.querySelectorAll("button");
+    buttons.forEach((btn) => (btn.style.display = "none"));
+
     html2canvas(input, { scale: 2 }).then((canvas) => {
       const imgData = canvas.toDataURL("image/png");
       const pdf = new jsPDF("p", "mm", "a4");
@@ -139,6 +143,8 @@ export default function App() {
       }
 
       pdf.save("test-results.pdf");
+
+      buttons.forEach((btn) => (btn.style.display = ""));
     });
   };
 
