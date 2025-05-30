@@ -1,5 +1,7 @@
 /* ResultsTable.module.css */
-
+.wrapper {
+  margin: 10px;
+}
 .table {
   width: 100%;
   border-collapse: collapse;
@@ -36,4 +38,7 @@
 
 .tdCenter {
   text-align: center;
+}
+.explanation {
+  max-width: 900px;
 }

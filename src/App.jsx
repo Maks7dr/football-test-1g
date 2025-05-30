@@ -174,7 +174,7 @@ export default function App() {
               ← Назад
             </button>
             <h2 className="text-2xl font-bold text-center text-green-700">
-              Тестирование 2013–2014
+              Тестирование 2013–2014 (26.05.2025)
             </h2>
             <div className="w-24"></div>
           </div>

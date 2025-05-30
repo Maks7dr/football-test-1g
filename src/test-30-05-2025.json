@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Синельников Андрей",
+    "sprint": 5.69,
+    "jump": 146,
+    "juggling": 40,
+    "run50x7": 91,
+    "cooper": 1600
+  },
+  {
+    "name": "Рахметтола Арсен",
+    "sprint": 5.01,
+    "jump": 165,
+    "juggling": 28,
+    "run50x7": 85,
+    "cooper": 2270
+  },
+  {
+    "name": "Жолдангар Бекнур",
+    "sprint": 5.04,
+    "jump": 174,
+    "juggling": 18,
+    "run50x7": 84,
+    "cooper": 2450
+  },
+  {
+    "name": "Серик Асанали",
+    "sprint": 5.49,
+    "jump": 145,
+    "juggling": 36,
+    "run50x7": 94,
+    "cooper": 2280
+  },
+  {
+    "name": "Елеу Улан",
+    "sprint": 5.35,
+    "jump": 169,
+    "juggling": 40,
+    "run50x7": 90,
+    "cooper": 2000
+  },
+  {
+    "name": "Тишибай Асанали",
+    "sprint": 5.59,
+    "jump": 153,
+    "juggling": 40,
+    "run50x7": 82,
+    "cooper": 2200
+  },
+  {
+    "name": "Мухтар Ерали",
+    "sprint": 5.24,
+    "jump": 167,
+    "juggling": 11,
+    "run50x7": 82,
+    "cooper": 2270
+  },
+  {
+    "name": "Акбар Санжар",
+    "sprint": 5.18,
+    "jump": 166,
+    "juggling": 18,
+    "run50x7": 82,
+    "cooper": 2760
+  },
+  {
+    "name": "Муратбек Алдияр",
+    "sprint": 4.77,
+    "jump": 189,
+    "juggling": 33,
+    "run50x7": 77,
+    "cooper": 2340
+  },
+  {
+    "name": "Сарсенбай Алидар",
+    "sprint": 5.06,
+    "jump": 196,
+    "juggling": 5,
+    "run50x7": 78,
+    "cooper": 2730
+  },
+  {
+    "name": "Айдархан Ансар",
+    "sprint": 5.38,
+    "jump": 159,
+    "juggling": 10,
+    "run50x7": 80,
+    "cooper": 2060
+  },
+  {
+    "name": "Бекентаев Таир",
+    "sprint": 6.29,
+    "jump": 140,
+    "juggling": 7,
+    "run50x7": 121,
+    "cooper": 1420
+  },
+  {
+    "name": "Шуакбай Даулет",
+    "sprint": 5.67,
+    "jump": 155,
+    "juggling": 8,
+    "run50x7": 86,
+    "cooper": 2600
+  },
+  {
+    "name": "Афонченко Данил",
+    "sprint": 5.35,
+    "jump": 155,
+    "juggling": 25,
+    "run50x7": 80,
+    "cooper": 2580
+  },
+  {
+    "name": "Тулак Арман",
+    "sprint": 5.03,
+    "jump": 196,
+    "juggling": 24,
+    "run50x7": 89,
+    "cooper": 2160
+  },
+  {
+    "name": "Маулетжан Абылайхан",
+    "sprint": 5.18,
+    "jump": 170,
+    "juggling": 12,
+    "run50x7": 81,
+    "cooper": 2150
+  },
+  {
+    "name": "Малгаждаров Ерназ",
+    "sprint": 5.11,
+    "jump": 177,
+    "juggling": 40,
+    "run50x7": 89,
+    "cooper": 2000
+  },
+  {
+    "name": "Марченко Антон",
+    "sprint": 5.11,
+    "jump": 184,
+    "juggling": 11,
+    "run50x7": 97,
+    "cooper": 2200
+  },
+  {
+    "name": "Мутаогарапи Алихан",
+    "sprint": 5.61,
+    "jump": 153,
+    "juggling": 40,
+    "run50x7": 84,
+    "cooper": 2440
+  },
+  {
+    "name": "Комаров Тимофей",
+    "sprint": 5.19,
+    "jump": 159,
+    "juggling": 6,
+    "run50x7": 87,
+    "cooper": 1815
+  },
+  {
+    "name": "Елисеев Лев",
+    "sprint": 6,
+    "jump": 144,
+    "juggling": 6,
+    "run50x7": 104,
+    "cooper": 1840
+  },
+  {
+    "name": "Кучма Вардан",
+    "sprint": 5.08,
+    "jump": 1.61,
+    "juggling": 9,
+    "run50x7": 87,
+    "cooper": 2020
+  },
+  {
+    "name": "Хасенов Мирас",
+    "sprint": 5.38,
+    "jump": 163,
+    "juggling": 23,
+    "run50x7": 94,
+    "cooper": 2120
+  },
+  {
+    "name": "Айтмуханов Жарас",
+    "sprint": 5.52,
+    "jump": 163,
+    "juggling": 23,
+    "run50x7": 94,
+    "cooper": 2130
+  },
+  {
+    "name": "Байбулатов Мейирлан",
+    "sprint": 5.54,
+    "jump": 159,
+    "juggling": 17,
+    "run50x7": 93,
+    "cooper": 2000
+  },
+  {
+    "name": "Кабитулла Али",
+    "sprint": 5.04,
+    "jump": 180,
+    "juggling": 5,
+    "run50x7": 89,
+    "cooper": 2210
+  },
+  {
+    "name": "Жантемиров Абдульазиз",
+    "sprint": 5.85,
+    "jump": 137,
+    "juggling": 3,
+    "run50x7": 104,
+    "cooper": 2200
+  },
+  {
+    "name": "Тешабай Ерасыл",
+    "sprint": 5.81,
+    "jump": 158,
+    "juggling": 2,
+    "run50x7": 99,
+    "cooper": 2160
+  },
+  {
+    "name": "Сеит Таир",
+    "sprint": 6.61,
+    "jump": 133,
+    "juggling": 3,
+    "run50x7": 142,
+    "cooper": 1700
+  },
+  {
+    "name": "Мырзабаев Абунасыр",
+    "sprint": 5.05,
+    "jump": 173,
+    "juggling": 40,
+    "run50x7": 84,
+    "cooper": 2700
+  },
+  {
+    "name": "Касымов Елжас",
+    "sprint": 5.37,
+    "jump": 175,
+    "juggling": 25,
+    "run50x7": 85,
+    "cooper": 2060
+  },
+  {
+    "name": "Еркин Дидар",
+    "sprint": 5.53,
+    "jump": 162,
+    "juggling": 14,
+    "run50x7": 87,
+    "cooper": 2210
+  }
+]
